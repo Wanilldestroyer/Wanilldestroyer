@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Wanilldestroyer
-- 👀 I’m interested in programmin g and modding
+- 👀 I’m interested in programming and modding
 - 🌱 I’m currently learning python
+- 😯 I'm currently modify Starsector on Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://vk.com/ifilippov2014)
 
