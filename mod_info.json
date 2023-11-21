@@ -1,0 +1,14 @@
+{
+  "id": "mymod",
+  "name": "My Mod",
+  "author": "Wan",
+  "version": "0.1 prerelease",
+  "description": "My Super Cool Mod for RedDragon star system (original work edited)",
+  "gameVersion": "0.96a-RC12"
+}
+"dependencies": [
+  {
+      "id": "lw_lazylib",
+      "name": "LazyLib"
+  },
+]
