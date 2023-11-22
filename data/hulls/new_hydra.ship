@@ -85,10 +85,6 @@
     -75.5,
     6
   ],
-  "builtInMods": [
-    "missile_autoloader",
-    "eccm"
-  ],
   "builtInWings": [],
   "center": [
     102.5,
