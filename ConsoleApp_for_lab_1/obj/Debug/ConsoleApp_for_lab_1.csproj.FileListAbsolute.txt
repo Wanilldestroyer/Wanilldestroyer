@@ -1,0 +1,11 @@
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\bin\Debug\ConsoleApp_for_lab_1.exe.config
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\bin\Debug\ConsoleApp_for_lab_1.exe
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\bin\Debug\ConsoleApp_for_lab_1.pdb
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\obj\Debug\ConsoleApp_for_lab_1.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\obj\Debug\ConsoleApp_for_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\obj\Debug\ConsoleApp_for_lab_1.exe
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\obj\Debug\ConsoleApp_for_lab_1.pdb
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\bin\Debug\ConsoleApp_for_lab_1.exe.manifest
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\bin\Debug\ConsoleApp_for_lab_1.application
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\obj\Debug\ConsoleApp_for_lab_1.exe.manifest
+C:\Users\filip\OneDrive\Документы\Моя учеба 2022\помощь Алинке 2\Технологии программирования\лабы в процессе\for_code\ConsoleApp_for_lab_1\obj\Debug\ConsoleApp_for_lab_1.application
